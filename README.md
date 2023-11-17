@@ -1,2 +1,3 @@
 # vbscript-fake-virus-library
-e
+msgware is the name of my FAKE viruses
+#disclamer these aren't real viruses
